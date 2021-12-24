@@ -1,0 +1,29 @@
+<svg width="800.0000000000001" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_37" y2="216.30252" x2="536.30252" y1="252.43697" x1="476.63866" stroke="#000" fill="none"/>
+  <line fill="none" stroke="#000" x1="284.52515" y1="313.37619" x2="218.30916" y2="343.78149" id="svg_8"/>
+  <path id="svg_15" d="m179.16267,396.17686c-44.79602,0 -81.08079,-16.02578 -81.08079,-35.81069c0,-19.78491 36.28477,-35.81069 81.08079,-35.81069c44.79602,0 81.08079,16.02578 81.08079,35.81069c0,19.78491 -36.28477,35.81069 -81.08079,35.81069z" opacity="undefined" stroke="#000" fill="#fff"/>
+  <line fill="none" x1="277.76842" y1="230.94404" x2="210.87675" y2="199.86307" id="svg_3" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+  <ellipse fill="#fff" cx="175.13495" cy="183.01516" id="svg_14" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <rect fill="#fff" stroke="#000" x="261.9036" y="230.94404" width="216.21546" height="82.43214" id="svg_1"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="330.90672" y="282.13985" id="svg_2" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">STAFF</text>
+  <text fill="#000000" stroke="#000" x="153.44037" y="192.83896" id="svg_7" stroke-width="0" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">SID</text>
+  <text fill="#000000" stroke="#000" x="143.62787" y="369.51644" id="svg_10" stroke-width="0" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">SName</text>
+  <line fill="none" x1="455.79525" y1="313.37619" x2="520.08951" y2="339.06049" id="svg_16" stroke="#000"/>
+  <ellipse fill="#fff" cx="552.53927" cy="352.57396" id="svg_17" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="530.82497" y="360.37424" id="svg_6" font-size="20" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">SSex</text>
+  <line fill="none" stroke="#000" x1="367.07402" y1="231.03889" x2="367.07402" y2="190.1298" id="svg_18"/>
+  <line fill="none" x1="367.72338" y1="314.15576" x2="367.72338" y2="357.0129" id="svg_19" stroke="#000"/>
+  <ellipse fill="#fff" cx="367.99208" cy="170.02815" id="svg_20" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="307.33377" y="176.49344" id="svg_21" font-size="18" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">Create_time</text>
+  <ellipse fill="#fff" cx="368.64144" cy="386.2619" id="svg_22" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="310.58052" y="392.07784" id="svg_23" font-size="18" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">Update_time</text>
+  <line id="svg_31" y2="274.28571" x2="261.51261" y1="274.28571" x1="204.36975" stroke="#000" fill="none"/>
+  <ellipse fill="#fff" cx="153.28621" cy="272.09079" id="svg_32" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" x="124.02861" y="280.23392" id="svg_33" stroke-width="0" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">DEID</text>
+  <ellipse fill="#fff" cx="576.90902" cy="191.22942" id="svg_35" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="541.74934" y="199.02971" id="svg_36" font-size="20" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">SBirth</text>
+ </g>
+
+</svg>

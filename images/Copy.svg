@@ -1,0 +1,23 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <line fill="none" stroke="#000" x1="297.97053" y1="313.37619" x2="231.75454" y2="343.78149" id="svg_8"/>
+  <ellipse fill="#fff" cx="192.60805" cy="360.36617" id="svg_15" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <line fill="none" x1="291.2138" y1="230.94404" x2="224.32213" y2="199.86307" id="svg_3" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+  <ellipse fill="#fff" cx="188.58033" cy="183.01516" id="svg_14" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <rect fill="#fff" stroke="#000" x="276.34898" y="230.94404" width="216.21546" height="82.43214" id="svg_1"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="352.6422" y="282.37739" id="svg_2" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">COPY</text>
+  <text style="cursor: move;" fill="#000000" stroke="#000" x="165.20508" y="191.15829" id="svg_7" stroke-width="0" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">CID</text>
+  <text style="cursor: move;" fill="#000000" stroke="#000" x="168.83795" y="369.9748" id="svg_10" stroke-width="0" font-size="24" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">BID</text>
+  <line fill="none" x1="469.24063" y1="313.37619" x2="533.53489" y2="339.06049" id="svg_16" stroke="#000"/>
+  <ellipse fill="#fff" cx="565.98465" cy="352.57396" id="svg_17" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text style="cursor: move;" fill="#000000" stroke="#000" stroke-width="0" x="533.76614" y="357.66225" id="svg_6" font-size="18" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">CSTATE</text>
+  <line fill="none" stroke="#000" x1="380.5194" y1="231.03889" x2="380.5194" y2="190.1298" id="svg_18"/>
+  <line fill="none" x1="381.16876" y1="314.15576" x2="381.16876" y2="357.0129" id="svg_19" stroke="#000"/>
+  <ellipse fill="#fff" cx="381.43746" cy="170.02815" id="svg_20" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="320.77915" y="176.49344" id="svg_21" font-size="18" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">Create_time</text>
+  <ellipse fill="#fff" cx="382.08682" cy="386.2619" id="svg_22" rx="81.08079" ry="35.81069" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="324.0259" y="392.07784" id="svg_23" font-size="18" font-family="'Fira Code'" text-anchor="start" xml:space="preserve">Update_time</text>
+ </g>
+
+</svg>
